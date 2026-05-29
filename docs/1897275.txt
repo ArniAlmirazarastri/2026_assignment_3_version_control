@@ -1,0 +1,7 @@
+## [Unreleased]
+
+ - CHANGED: Fixed high-severity text corruption by removing XXXXXXX string from data/1897275.txt (#1)  ## [0.1.1] - 2025-10-26 
+
+ ### Added 
+
+ - Initial commit
